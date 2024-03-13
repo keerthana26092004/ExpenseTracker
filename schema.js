@@ -8,7 +8,10 @@ amount : {
          },
 category : {
      type : String
-           }    
+           } ,
+date : {
+     type : Date
+}   
 
 })
   
